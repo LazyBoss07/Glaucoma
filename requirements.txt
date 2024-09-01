@@ -3,7 +3,7 @@
 tensorflow==2.16.1
 pillow==8.3.2
 numpy==1.26
-streamlit==0.81.1
+flask
 
 # Ensure latest versions of pip, setuptools, and wheel are used
 pip>=24.2
