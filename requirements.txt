@@ -2,7 +2,7 @@
 tensorflow==2.16.1
 
 # Use a more recent version of pillow
-pillow==10.0.0
+pillow==8.3.2
 
 # Use a compatible version of numpy, without the --only-binary flag
 numpy==1.26.0
