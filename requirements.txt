@@ -1,20 +1,19 @@
 # Required version of TensorFlow
 tensorflow==2.16.1
 
-# Pillow version as specified
-pillow==8.3.2
+# Use a more recent version of pillow
+pillow==10.0.0
 
-# Install numpy with precompiled binaries to avoid build issues
-numpy==1.16.5 --only-binary=:all:
+# Use a compatible version of numpy, without the --only-binary flag
+numpy==1.16.5
 
 # Ensure latest versions of pip, setuptools, and wheel are used
 pip>=24.2
 setuptools>=65.0.0
 wheel>=0.40.0
 
-# Include other necessary dependencies for your application
-# Example: streamlit package
+# Include the Streamlit package
 streamlit==1.24.0
 
-# Additional dependencies that might be required
-# Include any other packages your application depends on
+# Additional dependencies
+# Add other necessary packages for your application
