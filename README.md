@@ -1,17 +1,3 @@
-# Glaucoma detector [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/golden-panther/glaucoma-detector/glaucoma_app.py)
-
-Link: https://share.streamlit.io/golden-panther/glaucoma-detector/glaucoma_app.py
-
-(If app at above link doesn't work then use this project by downloading and running it on your local PC)
-
-## Web Page
-![alt text](https://github.com/golden-panther/glaucoma-detector/blob/master/lit.jpg)
-
-## Healthy Eye
-![alt text](https://github.com/golden-panther/glaucoma-detector/blob/master/healthy%20lit.jpg)
-
-## Glaucomatous Eye
-![alt text](https://github.com/golden-panther/glaucoma-detector/blob/master/glaucoma%20lit.jpg)
 
 # >> Details
 ## Part 1
